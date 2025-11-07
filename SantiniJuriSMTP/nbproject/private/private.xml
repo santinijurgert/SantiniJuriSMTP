@@ -3,10 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/santini.juri/Downloads/SantiniJuriSMTP/SantiniJuriSMTP/src/santinijurismtp/SMTPClient.java</file>
-            <file>file:/C:/Users/santini.juri/Downloads/SantiniJuriSMTP/SantiniJuriSMTP/src/santinijurismtp/SMTPParser.java</file>
-            <file>file:/C:/Users/santini.juri/Downloads/SantiniJuriSMTP/SantiniJuriSMTP/src/santinijurismtp/SMTPResponse.java</file>
-            <file>file:/C:/Users/santini.juri/Downloads/SantiniJuriSMTP/SantiniJuriSMTP/src/santinijurismtp/SantiniJuriSMTP.java</file>
+            <file>file:/C:/Users/santini.juri/Downloads/SantiniJuriSMTP/SantiniJuriSMTP/SantiniJuriSMTP/src/santinijurismtp/FrameSMTP.java</file>
+            <file>file:/C:/Users/santini.juri/Downloads/SantiniJuriSMTP/SantiniJuriSMTP/SantiniJuriSMTP/src/santinijurismtp/SantiniJuriSMTP.java</file>
         </group>
     </open-files>
 </project-private>
